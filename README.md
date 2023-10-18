@@ -4,5 +4,6 @@ The problems are listed below. The solutions are present in the solutions folder
 1. Stick Lengths
 2. Static Range Sum Queries
 3. Collecting Numbers
+4. Playlist
 
 
