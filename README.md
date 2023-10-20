@@ -8,5 +8,6 @@ The problems are listed below. The solutions are present in the solutions folder
 5. Towers
 6. Factory Machines
 7. Tasks and Deadlines
+8. Reading Books
 
 
