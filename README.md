@@ -10,5 +10,6 @@ The problems are listed below. The solutions are present in the solutions folder
 7. Tasks and Deadlines
 8. Reading Books
 9. Nearest Smaller Values
+10. Subarray Sums I
 
 
