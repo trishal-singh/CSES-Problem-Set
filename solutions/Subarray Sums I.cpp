@@ -30,4 +30,4 @@ cout<<count<<endl;
 return 0;
 }
 //time O(N)
-// space O(N)
+// space O(1)
