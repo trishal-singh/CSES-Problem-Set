@@ -13,5 +13,6 @@ The problems are listed below. The solutions are present in the solutions folder
 10. Subarray Sums I
 11. Counting Divisors
 12. Dice Combinations
+13. Minimizing Coins
 
 
