@@ -16,5 +16,6 @@ The problems are listed below. The solutions are present in the solutions folder
 13. Minimizing Coins
 14. Coin Combinations I
 15. Coin Combinations II
+16. Removing Digits
 
 
