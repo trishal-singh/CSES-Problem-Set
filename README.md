@@ -19,5 +19,6 @@ The problems are listed below. The solutions are present in the solutions folder
 16. Removing Digits
 17. Book Shop
 18. Missing Coin Sum
+19. Grid Paths
 
 
