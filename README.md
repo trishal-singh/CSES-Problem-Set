@@ -18,5 +18,6 @@ The problems are listed below. The solutions are present in the solutions folder
 15. Coin Combinations II
 16. Removing Digits
 17. Book Shop
+18. Missing Coin Sum
 
 
