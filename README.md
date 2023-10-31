@@ -22,5 +22,6 @@ The problems are listed below. The solutions are present in the solutions folder
 19. Grid Paths
 20. Traffic Lights
 21. Josephus Problem I
+22. Exponentiation
 
 
