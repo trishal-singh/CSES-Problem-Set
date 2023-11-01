@@ -24,5 +24,6 @@ The problems are listed below. The solutions are present in the solutions folder
 21. Josephus Problem I
 22. Exponentiation
 23. Exponentiation II
+24. Sum of Three Values
 
 
