@@ -27,5 +27,6 @@ The problems are listed below. The solutions are present in the solutions folder
 24. Sum of Three Values
 25. Common Divisors
 26. Subarray Sums II
+27. Money Sums
 
 
